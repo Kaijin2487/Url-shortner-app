@@ -10,7 +10,7 @@ interface IDataTableProps {
 }
 
 const DataTable: React.FunctionComponent<IDataTableProps> = (props) => {
-  const { data, updateReloadState } = props;
+  const { data } = props;
   console.log("Data in DataTable is ", data);
   const renderTableData = () => {
     return data.map((item) => {
