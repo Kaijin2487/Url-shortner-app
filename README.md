@@ -38,7 +38,7 @@ A modern, full-stack URL shortener application built with TypeScript, React, Nod
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/Kaijin2487/Url-shortner-app.git
 cd url-shortener
 ```
 
@@ -124,6 +124,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Aakash Rajesh Pawar
 
-Project Link: [https://github.com/yourusername/url-shortener](https://github.com/yourusername/url-shortener)
+Project Link: [https://github.com/Kaijin2487/Url-shortner-app.git](https://github.com/Kaijin2487/Url-shortner-app.git)
